@@ -1,6 +1,9 @@
 # Html2img
 
-This gem enables you to download HTML elements at the click of a button. Requires JQuery.
+This gem enables you to download HTML elements at the click of a button. Requires JQuery. This Gem uses JavaScript files from 
+https://github.com/hongru/canvas2image
+https://github.com/niklasvh/html2canvas
+https://github.com/dankogai/js-base64
 
 ## Installation
 

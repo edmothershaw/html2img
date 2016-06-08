@@ -6,10 +6,10 @@ require 'html2img/version'
 Gem::Specification.new do |spec|
   spec.name          = "html2img"
   spec.version       = Html2img::VERSION
-  spec.authors       = ["edmothershaw"]
+  spec.authors       = ["Edward Mothershaw"]
   spec.email         = ["ucabeam@ucl.ac.uk"]
 
-  spec.summary       = %q{Allows the easy downloading of HTML elements.}
+  spec.summary       = %q{Allows the easy downloading of HTML elements. Requires JQuery}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = 'http://rubygems.org/gems/html2img'
   spec.license       = "MIT"
