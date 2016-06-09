@@ -21,6 +21,13 @@ Or install it yourself as:
 
     $ gem install html2img
 
+The add to your application.js file
+
+```javascript
+//= html2img
+```
+
+
 ## Usage
 
 On the button that you want to start the download with add in the HTML of the element the class ```html2img-#download-#<id>``` where <id> is the id attribute of the element you want to download.
@@ -32,6 +39,8 @@ An example
 <input type="button" class="html2img-#download-#block btn" value="Download"/>
 
 ``` 
+
+
 
 ## Development
 
