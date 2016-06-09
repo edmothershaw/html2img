@@ -24,7 +24,7 @@ Or install it yourself as:
 The add to your application.js file
 
 ```javascript
-//= html2img
+//= require html2img
 ```
 
 
