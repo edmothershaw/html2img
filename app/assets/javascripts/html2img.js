@@ -6,7 +6,7 @@ $(function() {
 	//  	console.log( index + ": " + $( this ).text() );
     //$("[id^=html2img]").click(function() { 
 
-    $("[class^=html2img-#]").click(function() { 
+    $("[class^=html2img-]").click(function() { 
         console.log("start")
         var h2i = returnHtml2imgID($(this));
         // console.log(cls);
